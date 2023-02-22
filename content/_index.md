@@ -16,9 +16,9 @@ sections:
       
       text: |-
         **Welcome to my page!** 
-        everyone
+        {{/* everyone: this should be commented out */}}
 
-        **Please click on a menu item for more information.**
+        **Please click on a menu item for more infor!mation.**
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
