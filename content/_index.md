@@ -15,7 +15,8 @@ sections:
         url: https://www.arts.uwaterloo.ca/~hrus
       
       text: |-
-        **Welcome to my page!**
+        **Welcome to my page!** 
+        everyone
 
         **Please click on a menu item for more information.**
 
