@@ -9,7 +9,7 @@ sections:
     content:
       title: Horatiu's webpage
       image:
-        filename: hero-academic.png
+        filename: avatar.jpg
       cta:
         label: '**Get Started**'
         url: https://wowchemy.com/templates/
@@ -23,8 +23,6 @@ sections:
         **Welcome to my page!**
 
         **Please click on a menu item for more information.**
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
 
         <!--Custom spacing-->
         <div class="mb-3"></div>
