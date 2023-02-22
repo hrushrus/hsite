@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Horatiu's webpage
+      title: 
       image:
         filename: avatar.jpg
       cta:
