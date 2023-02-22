@@ -12,7 +12,7 @@ sections:
         filename: avatar.jpg
       cta:
         label: '**Ye olde UW page**'
-        url: https://www.arts.uwaterloo.ca/~hrus
+        url: https://uwaterloo.ca/economics/profiles/horatiu-rus
       
       text: |-
         **Welcome to my new page!** 
