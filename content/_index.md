@@ -245,7 +245,7 @@ sections:
       appointment_url: 'https://calendly.com/hrushrus/office-hours'
       address:
         street: 200 University Avenue W
-        city: WAterloo
+        city: Waterloo
         region: ON
         postcode: N2T 2G5
         country: Canada
