@@ -11,11 +11,11 @@ sections:
       image:
         filename: avatar.jpg
       cta:
-        label: '**Old UW page**'
+        label: '**Ye olde UW page**'
         url: https://www.arts.uwaterloo.ca/~hrus
       
       text: |-
-        **Welcome to my page!** 
+        **Welcome to my new page!** 
         
         <!--Custom spacing-->
         <div class="mb-3"></div>
