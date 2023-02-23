@@ -4,6 +4,7 @@ title:
 date: 2022-10-24
 type: landing
 
+
 sections:
   - block: hero
     content:
@@ -11,10 +12,10 @@ sections:
       image:
         filename: avatar.jpg
       cta:
-        label: '**Ye olde UW page**'
+        label: '**Ye olde UW page is here**'
         url: https://uwaterloo.ca/economics/profiles/horatiu-rus
       
-      text: |-
+      text: 
         **Welcome to my new page!** 
         
         <!--Custom spacing-->
