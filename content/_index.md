@@ -15,7 +15,7 @@ sections:
         label: '**Ye olde UW page is here**'
         url: https://uwaterloo.ca/economics/profiles/horatiu-rus
       
-      text: 
+      text: |-
         **Welcome to my new page!** 
         
         <!--Custom spacing-->
